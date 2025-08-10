@@ -1,0 +1,11 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+
+# Environment variables
+.env
+
+# Google API credentials
+oauth_credentials.json
+
+# Python virtual environment
+venv/
